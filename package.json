@@ -1,12 +1,12 @@
 {
-  "name": "arweave-uploader",
+  "name": "arweave-geospatial-uploader",
   "version": "1.0.1",
   "description": "A Simple script to upload json data to the Arweave blockchain from a CSV",
   "main": "uploader.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "@narbs91",
+  "author": "Naveen Veluswamy",
   "license": "MIT",
   "dependencies": {
     "@types/node": "^16.10.3",
