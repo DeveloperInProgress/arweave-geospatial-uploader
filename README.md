@@ -106,31 +106,3 @@ query {
 ```
 
 Please view the [graphQL documentation](https://gql-guide.vercel.app/) or the [http api docs](https://docs.arweave.org/developers/server/http-api) for more examples on how/what your can query.
-
-## See Issues or have a feature in mind?
-
-If you see any bugs during use or have a cool feature request, please don't hesistate to create an [issue](https://github.com/narbs91/arweave-json-uploader/issues) :)
-
-## Found the script helpful?
-
-If you found the script helpful to you and would like me to continue building/support the project consider a small (totally optional) ETH donation to the following Ethereum address: `0x35Bd29AF1DeD41Aacd561bc1E4eEf1E1EA852D77`
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://www.narbeh.xyz/"><img src="https://avatars.githubusercontent.com/u/29411347?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Narb</b></sub></a><br /><a href="#infra-narbs91" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/narbs91/arweave-json-uploader/commits?author=narbs91" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
